@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tailwind utility classes are already applied to components */
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.bg-gray-100 {
+  background-color: #f7fafc;
+}
